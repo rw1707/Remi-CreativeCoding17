@@ -99,26 +99,3 @@ function keyPressed(){
  		}
  	}
  }
-
-    /* Spinning triangles 
-    push();
-    translate(width/2,height/2);
-    rotate(mappedRot);
-    triangle(40,-40,40,40,y,0);
-    triangle(-40,-40,40,-40,0,-y);
-    triangle(-40,-40,-40,40,-y,0);
-    triangle(-40,40,40,40,0,y);
-    pop();
-    */
-
-    /* What we did in class
-    for(var i = 0; i < 6; i++){
-        
-        push();
-        translate(300,300);
-        rotate(i);
-        triangle(40,-40,40,40,y,0);
-        pop();
-        
-    }
-    */
