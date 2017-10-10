@@ -1,3 +1,5 @@
+// Project partner: Jeffrey Qiu
+
 var y = 100;
 var z = 1;
 var p = 1;
